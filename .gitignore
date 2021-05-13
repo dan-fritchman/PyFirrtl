@@ -1,7 +1,9 @@
 
 # Protobuf-compiler output is not revision-tracked
 # (Although is of course released in packaging)
-firrtl/proto/*pb2.py
+## FIXME: see `pyproject.toml` re: failues to ignore this! 
+## Just please don't add it for now
+##firrtl/proto/*pb2.py
 
 # From GitHub's very helpful template
 
